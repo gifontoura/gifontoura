@@ -11,7 +11,7 @@ Analista de dados trabalhando na interseção entre dados, processos e IA.
 SQL · PostgreSQL · Power BI · Qlik Sense · ETL · Supabase · GitHub · Vercel · HTML/CSS · Python (em estudo)
 
 ### Projetos em destaque
-- Sistema de gestão financeira e de obras: financeiro por projeto, importação de extratos, rateio de custos e controle de acesso (versão demo em breve)
+- [Sistema de gestão financeira e de obras](https://github.com/gifontoura/gestao-obras-demo): levantamento de requisitos, modelagem em PostgreSQL, importação de extratos sem duplicidade, rateio de custos, controle de acesso por perfil e leitura de projetos com IA (versão demo com dados fictícios)
 - Painéis públicos de políticas agrárias (em breve)
 
 [LinkedIn](https://www.linkedin.com/in/giovana-fontoura/)
