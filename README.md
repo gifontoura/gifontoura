@@ -12,6 +12,6 @@ SQL · PostgreSQL · Power BI · Qlik Sense · ETL · Supabase · GitHub · Verc
 
 ### Projetos em destaque
 - [Sistema de gestão financeira e de obras](https://github.com/gifontoura/gestao-obras-demo): levantamento de requisitos, modelagem em PostgreSQL, importação de extratos sem duplicidade, rateio de custos, controle de acesso por perfil e leitura de projetos com IA (versão demo com dados fictícios)
-- Painéis públicos de políticas agrárias (em breve)
+- [Painéis públicos de políticas agrárias](https://github.com/gifontoura/paineis-publicos-mda): painel do Programa Garantia-Safra, aberto à população, com mais de 1,7 milhão de inscrições (SQL, PostgreSQL, Qlik Sense, QVDs e mashup em HTML/CSS)
 
 [LinkedIn](https://www.linkedin.com/in/giovana-fontoura/)
